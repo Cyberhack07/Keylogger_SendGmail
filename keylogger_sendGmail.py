@@ -1,6 +1,5 @@
 """
-Copyright (c) 2024 [Tu Nombre o Alias]
-Todos los derechos reservados.
+Elaborado por [Cyberhack07]
 
 Este software está diseñado únicamente para fines educativos y de auditoría en sistemas donde se tenga autorización expresa.  
 El uso de este código sin el consentimiento del propietario del sistema es **ilegal** y puede violar leyes de privacidad y ciberseguridad.  
