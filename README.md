@@ -1,4 +1,41 @@
 # Keylogger_SendGmail
-La ciberseguridad es de vital importancia en el mundo digital actual, ya que protege la información sensible y asegura la integridad de los sistemas de información. El uso ético de este repositorio implica utilizar los recursos y herramientas disponibles de manera responsable, respetando la privacidad y los derechos de los demás. Es fundamental recordar que cualquier uso inadecuado de los materiales aquí disponibles puede llevar a consecuencias legales graves, incluyendo la violación de leyes de ciberseguridad y la invasión de la privacidad. Por lo tanto, cyberhack07 no se hace responsable del uso que se le dé a este repositorio y enfatiza la necesidad de actuar con ética y responsabilidad en el entorno digital.
+🛡️ Keylogger_SendGmail — Solo para Entornos Autorizados ⚠️
+⚠️ Herramienta de uso exclusivo para auditorías éticas y con consentimiento.
+🚫 El uso indebido puede violar leyes locales e internacionales. Cyberhack07 NO se hace responsable.
 
-Cybersecurity is of vital importance in today’s digital world as it protects sensitive information and ensures the integrity of information systems. The ethical use of this repository involves responsibly utilizing the resources and tools available while respecting others' privacy and rights. It is crucial to remember that any improper use of the materials provided here may lead to serious legal consequences, including the violation of cybersecurity laws and invasion of privacy. Therefore, cyberhack07 is not responsible for how this repository is used and emphasizes the need to act with ethics and responsibility in the digital environment.
+📌 Descripción
+Keylogger_SendGmail es una herramienta diseñada con fines educativos y de auditoría de seguridad informática, que permite registrar pulsaciones de teclado en un sistema local y guardar los datos en un archivo que puede ser enviado por correo electrónico (Gmail) a un analista autorizado.
+
+🛠️ Pensado para:
+
+Laboratorios de ciberseguridad
+
+Simulaciones de ataques controlados
+
+Pruebas de penetración con consentimiento
+
+⚠️ No es una herramienta para el espionaje ni el acceso no autorizado.
+
+🧑‍💻 Características
+Captura silenciosa de pulsaciones de teclas
+
+Registro en archivo de texto cifrado o plano (configurable)
+
+Envío automático a cuenta de Gmail configurada
+
+Fácil de desplegar en entornos de prueba
+
+⚖️ Aviso Legal
+Esta herramienta está destinada exclusivamente a actividades éticas, legales y autorizadas.
+El uso sin consentimiento explícito está absolutamente prohibido y puede constituir delito bajo leyes de privacidad y ciberseguridad.
+
+🔐 Al utilizar este repositorio, el usuario acepta:
+
+Que cuenta con el permiso para ejecutar auditorías en el entorno objetivo
+
+Que entiende completamente las implicaciones legales del uso indebido
+
+Que Cyberhack07 no se responsabiliza por usos indebidos o ilegales
+
+📬 Contacto y uso responsable
+Si tienes dudas sobre cómo usar esta herramienta éticamente, o deseas integrarla en una prueba de seguridad legal, puedes contribuir o abrir un issue para discutir mejoras o añadir funciones que refuercen la transparencia y el control del uso.
